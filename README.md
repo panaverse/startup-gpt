@@ -2,6 +2,8 @@
 
 **Using GenAI, Web 3, and Cloud Technologies to Create Startups**
 
+https://docs.google.com/document/d/1vXRDvhXEM3Iy5BTtP7SbHwaYdGLekbrs/edit?usp=sharing&ouid=104110722450108177953&rtpof=true&sd=true
+
 If you’ve never started a business, the first time can be a little scary. Especially because it takes a lot of hard work and planning. On top of this, only about half of all businesses survive five years or longer.
  
 Luckily, there are basic strategies for startups provided by Panaverse which you can follow to help get your company up and running:
