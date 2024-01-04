@@ -1,8 +1,10 @@
-# Panacloud Startup GPT: Steps to Help You Start a Startup
+# Panaverse Startup GPT: Steps to Help You Start a Startup
+
+Using GenAI and Web 3 Technologies to Create Startups
 
 If you’ve never started a business, the first time can be a little scary. Especially because it takes a lot of hard work and planning. On top of this, only about half of all businesses survive five years or longer.
  
-Luckily, there are basic strategies for startups provided by Panacloud which you can follow to help get your company up and running:
+Luckily, there are basic strategies for startups provided by Panaverse which you can follow to help get your company up and running:
 
 ## Steps to Help You Start a Startup
 If you’ve never started a business, the first time can be a little scary. Especially because it takes a lot of hard work and planning. On top of this, only about half of all businesses survive five years or longer.1
@@ -27,7 +29,7 @@ Writing a White Paper is also important for getting financing for your startup t
 
 4. Secure Funding for Your Startup by Crowd Funding
 
-The cost of a startup is different for every business owner. However, no matter what your costs are, you’ll likely need to get startup financing. In the Panacloud plan you raise funding by raising funds by selling DAO tokens.
+The cost of a startup is different for every business owner. However, no matter what your costs are, you’ll likely need to get startup financing. In the Panaverse plan you raise funding by raising funds by selling DAO tokens.
  
 Friends and family
 Angel investors
