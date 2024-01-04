@@ -1,6 +1,6 @@
-# Panaverse Startup GPT: Steps to Help You Start a Startup
+# Panaverse Startup GPT: Help You Start a Startup
 
-Using GenAI and Web 3 Technologies to Create Startups
+**Using GenAI, Web 3, and Cloud Technologies to Create Startups**
 
 If you’ve never started a business, the first time can be a little scary. Especially because it takes a lot of hard work and planning. On top of this, only about half of all businesses survive five years or longer.
  
